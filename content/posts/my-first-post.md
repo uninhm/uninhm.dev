@@ -24,7 +24,7 @@ Let \(g: A \subset E \to F\), where \((E,\ ||\cdot||_E)\) and \((F,\ ||\cdot||_F
 \[
 g(x) \xrightarrow[x \to a]{} \ell
 \enspace\overset{\text{def}}\iff\enspace
-\forall \varepsilon>0, \exists \eta>0, \forall x \in A, ||x-a||_E < \eta \implies ||g(x)-g(a)||_F<\varepsilon
+\forall \varepsilon>0, \exists \eta>0, \forall x \in A, 0<||x-a||_E < \eta \implies ||g(x)-\ell||_F<\varepsilon
 \]
 Great.
 
