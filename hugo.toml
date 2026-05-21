@@ -1,3 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://uninhm.dev/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Unai Hernandez Minaberry'
+theme = 'gokarna'
+
+[params]
+  avatarURL = 'https://avatars.githubusercontent.com/u/62044675'
+  description = "Programming, math and linguistics"
+  accentColor = '#71c98b'
