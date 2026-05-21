@@ -7,6 +7,7 @@ theme = 'gokarna'
   avatarURL = 'https://avatars.githubusercontent.com/u/62044675'
   description = "CS, math and linguistics"
   accentColor = '#71c98b'
+
   customHeadHTML = '''
     <link
       rel="stylesheet"
@@ -101,3 +102,17 @@ theme = 'gokarna'
     # listed last in the menu (rightmost)
     weight = 1
 
+  [[menu.main]]
+    # Unique identifiers are required for menu entries without a name property,
+    # or for menu entries which re-use a name
+    # identifier = "github"
+    name = "GitHub"
+
+    # Absolute URL to external resource
+    url = "https://github.com/uninhm"
+    weight = 2
+
+    # Surround the menu entry (or name) with HTML content, such as Feather
+    # icons: https://feathericons.com
+    pre = "<span data-feather='github'></span>"
+    post = ""
