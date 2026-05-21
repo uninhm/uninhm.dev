@@ -5,5 +5,5 @@ theme = 'gokarna'
 
 [params]
   avatarURL = 'https://avatars.githubusercontent.com/u/62044675'
-  description = "Programming, math and linguistics"
+  description = "CS, math and linguistics"
   accentColor = '#71c98b'
