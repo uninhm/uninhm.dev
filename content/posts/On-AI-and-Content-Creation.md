@@ -36,3 +36,9 @@ AI-generated text that happens to be right is void of meaning, in some sense. Th
 
 ## Exercice for the reader
 Next time, don't send your text to an LLM; send it to a friend. Ask real people for an opinion. And if it's not anything serious, just make mistakes.
+
+---
+
+| Further readings |
+| --------------- |
+| [AI is Killing My Favourite Words (And Maybe Yours Too)](https://www.linkedin.com/pulse/ai-killing-my-favourite-words-maybe-yours-too-jedidah-wanjiru-muthui-zyt4f/) |
