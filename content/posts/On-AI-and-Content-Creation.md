@@ -41,4 +41,5 @@ Next time, don't send your text to an LLM; send it to a friend. Ask real people 
 
 | Further readings |
 | --------------- |
-| [AI is Killing My Favourite Words (And Maybe Yours Too)](https://www.linkedin.com/pulse/ai-killing-my-favourite-words-maybe-yours-too-jedidah-wanjiru-muthui-zyt4f/) |
+| [*AI is Killing My Favourite Words (And Maybe Yours Too)*](https://www.linkedin.com/pulse/ai-killing-my-favourite-words-maybe-yours-too-jedidah-wanjiru-muthui-zyt4f/) |
+| [*Magnifica Humanitas* by Pope Leo XIV - Chapter 3](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html#CHAPTER_THREE) |
