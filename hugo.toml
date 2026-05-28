@@ -102,6 +102,8 @@ theme = 'gokarna'
     # listed last in the menu (rightmost)
     weight = 1
 
+    pre = "<span data-feather='book'></span>"
+
   [[menu.main]]
     # Unique identifiers are required for menu entries without a name property,
     # or for menu entries which re-use a name
