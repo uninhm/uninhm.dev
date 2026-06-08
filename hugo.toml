@@ -7,6 +7,7 @@ theme = 'gokarna'
   avatarURL = 'https://avatars.githubusercontent.com/u/62044675'
   description = "I love CS, math and linguistics"
   accentColor = '#71c98b'
+  footer = 'Unai Hernandez Minaberry'
 
   customHeadHTML = '''
     <link
